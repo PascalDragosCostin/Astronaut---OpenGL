@@ -1,0 +1,5 @@
+texture min mag filter
+de ce atrib, uniform, varrying
+cum incarc un obiect cu si o textura pentru el
+ce e acel Normal in vertex shader
+texture2d din shader

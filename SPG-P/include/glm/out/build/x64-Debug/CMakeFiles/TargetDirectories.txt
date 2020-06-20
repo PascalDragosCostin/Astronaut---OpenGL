@@ -1,0 +1,3 @@
+C:/Users/dcp_e/OneDrive/Desktop/Dragos/School/SPG-P/SPG-P/include/glm/out/build/x64-Debug/CMakeFiles/glm_dummy.dir
+C:/Users/dcp_e/OneDrive/Desktop/Dragos/School/SPG-P/SPG-P/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/dcp_e/OneDrive/Desktop/Dragos/School/SPG-P/SPG-P/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

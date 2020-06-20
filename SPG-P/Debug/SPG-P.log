@@ -1,0 +1,3 @@
+﻿  SPG-P.cpp
+C:\Users\dcp_e\OneDrive\Desktop\Dragos\School\SPG-P\SPG-P\SPG-P.cpp(114,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SPG-P.vcxproj -> C:\Users\dcp_e\OneDrive\Desktop\Dragos\School\SPG-P\Debug\SPG-P.exe
